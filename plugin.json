@@ -1,0 +1,19 @@
+{
+  "id": "abyss-plugin-sandbox",
+  "name": "沙箱双开",
+  "version": "0.1.0",
+  "minHost": 1,
+  "minApp": "0.1.0",
+  "category": "sandbox",
+  "summary": "VirtualApp 血统虚拟空间：外部 APK 免安装直接运行 + API 接管（多开 / 伪装 / 隔离的执行底座）。",
+  "icon": "🧊",
+  "permissions": [],
+  "entry": "com.abyss.tools.plugin.sandbox.SandboxPlugin",
+  "repo": "Ultra-Guru/abyss-plugin-sandbox",
+  "patchChannel": "https://raw.githubusercontent.com/Ultra-Guru/abyss-plugin-sandbox/main/patches/index.json",
+  "roadmap": [
+    "v0.2 沙箱容器引擎",
+    "v0.3 免安装运行",
+    "v0.4 Hook 层数据伪造"
+  ]
+}
