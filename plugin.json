@@ -9,8 +9,8 @@
   "icon": "🧊",
   "permissions": [],
   "entry": "com.abyss.tools.plugin.sandbox.SandboxPlugin",
-  "repo": "Ultra-Guru/abyss-plugin-sandbox",
-  "patchChannel": "https://raw.githubusercontent.com/Ultra-Guru/abyss-plugin-sandbox/main/patches/index.json",
+  "repo": "abyss-tool/abyss-plugin-sandbox",
+  "patchChannel": "https://raw.githubusercontent.com/abyss-tool/abyss-plugin-sandbox/main/patches/index.json",
   "roadmap": [
     "v0.2 沙箱容器引擎",
     "v0.3 免安装运行",
